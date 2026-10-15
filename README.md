@@ -5,7 +5,7 @@
   
 <div align="center">
   <!-- Panel de racha de contribuciones (Streak Stats) -->
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ikerbuenodev&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
 </div>
 <br>
 
