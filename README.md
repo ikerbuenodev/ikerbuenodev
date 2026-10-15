@@ -17,7 +17,7 @@
     <a href="mailto:ikerbueno.dev@gmail.com">
       <img src="https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://tu-portafolio.com" target="_blank">
+    <a href="https://ikerbueno.dev" target="_blank">
       <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio"/>
     </a>
   </p>
