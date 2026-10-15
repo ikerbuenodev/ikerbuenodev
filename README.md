@@ -25,8 +25,6 @@
 
 ---
 
-### 🛠️ Stack Tecnológico
-
 <div align="center">
   <!-- Iconos visuales modernos (Skillicons) -->
   <img src="https://skillicons.dev/icons?i=java,php,js,html,css,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
