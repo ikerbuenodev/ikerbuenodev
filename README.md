@@ -11,10 +11,10 @@
 
   <p align="center">
     <!-- Enlaces de contacto (Reemplaza con tus URLs reales) -->
-    <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+    <a href="https://linkedin.com/in/iker-antonio-bueno-moreno-870076427" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:tuemail@dominio.com">
+    <a href="mailto:ikerbueno.dev@gmail.com">
       <img src="https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://tu-portafolio.com" target="_blank">
